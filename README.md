@@ -1,3 +1,1 @@
-Nama : Fitri Nur Azizah
-Nim : 3338250002
-Kelas : 3A
+Tugas 1 Komputasi Statistika ini berisi penerapan konsep dasar pemrograman R yang meliputi pembuatan dan pengolahan vektor, matriks, array, data frame, dan list. Tugas ini bertujuan untuk memahami penggunaan berbagai struktur data dalam R serta cara mengelola dan menampilkan data secara sistematis.
